@@ -79,7 +79,6 @@ public class TransactionProcessor {
         }
         activeInfo.replace(senderNumber, activeInfo.get(senderNumber) - transferAmount);
         activeInfo.replace(recipientNumber, activeInfo.get(recipientNumber) + transferAmount);
-        System.out.println(activeInfo);
         transferResultsWriter.writeReport(senderNumber, recipientNumber, transferAmount, "успешно обработан", fileName);
     }
 }

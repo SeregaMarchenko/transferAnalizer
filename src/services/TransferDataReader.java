@@ -28,7 +28,6 @@ public class TransferDataReader {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println(infoMap);
         return infoMap;
     }
 
