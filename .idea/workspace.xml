@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220caf1c-150e-4b8e-9756-669163dc7b84" name="Changes" comment="adding TransferResultsWriter">
-      <change afterPath="$PROJECT_DIR$/src/services/TransactionProcessor.java" afterDir="false" />
+    <list default="true" id="220caf1c-150e-4b8e-9756-669163dc7b84" name="Changes" comment="adding TranslationAnalyser">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transferAnalizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/transferAnalyzer.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +39,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/coursework"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="transferAnalyzer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="transferAnalyzer" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703597570164</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adding TransactionProcessor">
+      <created>1703597692435</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597692435</updated>
+    </task>
+    <task id="LOCAL-00008" summary="adding TranslationAnalyser">
+      <created>1703597947037</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597947037</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -98,6 +133,8 @@
     <MESSAGE value="adding configs" />
     <MESSAGE value="adding TransferDataReader" />
     <MESSAGE value="adding TransferResultsWriter" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding TransferResultsWriter" />
+    <MESSAGE value="adding TransactionProcessor" />
+    <MESSAGE value="adding TranslationAnalyser" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding TranslationAnalyser" />
   </component>
 </project>

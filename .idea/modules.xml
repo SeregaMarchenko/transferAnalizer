@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/transferAnalizer.iml" filepath="$PROJECT_DIR$/transferAnalizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transferAnalyzer.iml" filepath="$PROJECT_DIR$/transferAnalyzer.iml" />
     </modules>
   </component>
 </project>
