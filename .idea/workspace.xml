@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220caf1c-150e-4b8e-9756-669163dc7b84" name="Changes" comment="adding custom exceptions">
-      <change afterPath="$PROJECT_DIR$/src/configs/PathConfigs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/configs/RegexConfigs.java" afterDir="false" />
+    <list default="true" id="220caf1c-150e-4b8e-9756-669163dc7b84" name="Changes" comment="adding TransferResultsWriter">
+      <change afterPath="$PROJECT_DIR$/src/services/TransactionProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +67,37 @@
       <option name="project" value="LOCAL" />
       <updated>1703597302621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding configs">
+      <created>1703597387216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597387216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding TransferDataReader">
+      <created>1703597514877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597514877</updated>
+    </task>
+    <task id="LOCAL-00006" summary="adding TransferResultsWriter">
+      <created>1703597570164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597570164</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding main directories" />
     <MESSAGE value="adding text files with information to file directories" />
     <MESSAGE value="adding custom exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding custom exceptions" />
+    <MESSAGE value="adding configs" />
+    <MESSAGE value="adding TransferDataReader" />
+    <MESSAGE value="adding TransferResultsWriter" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding TransferResultsWriter" />
   </component>
 </project>
