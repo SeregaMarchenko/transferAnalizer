@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220caf1c-150e-4b8e-9756-669163dc7b84" name="Changes" comment="adding main directories">
-      <change afterPath="$PROJECT_DIR$/src/files/activeInfo/activeInfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/input/input_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/input/input_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/input/input_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/report/report.txt" afterDir="false" />
+    <list default="true" id="220caf1c-150e-4b8e-9756-669163dc7b84" name="Changes" comment="adding custom exceptions">
+      <change afterPath="$PROJECT_DIR$/src/configs/PathConfigs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/RegexConfigs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,11 +54,27 @@
       <option name="project" value="LOCAL" />
       <updated>1703596638541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding text files with information to file directories">
+      <created>1703597141118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597141118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding custom exceptions">
+      <created>1703597302621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703597302621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding main directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding main directories" />
+    <MESSAGE value="adding text files with information to file directories" />
+    <MESSAGE value="adding custom exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding custom exceptions" />
   </component>
 </project>
